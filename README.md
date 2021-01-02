@@ -22,4 +22,6 @@ We have not tested this program with other microcontrollers or peripherals, so f
 10) Enter Port Name and Baud Rate (Help for port name and baud rate is available in program)
 11) Enjoy!
 
-[Demo](google.com)
+(Note: To avoid damaging devices, do not use this with earbuds and/or lower the volume of your earbuds/speaker before playing notes)
+
+[Click Here to Watch the Project in Action](https://youtu.be/EbFI5m8fllU)
