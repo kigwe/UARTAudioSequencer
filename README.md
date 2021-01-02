@@ -1,6 +1,6 @@
 # UART Audio Sequencer
-# Project: CPE 316 Design Project
-# Members: Kelechi Igwe, Reed Slobodin, Brandon Nowak
+## Project: CPE 316 Design Project
+### Members: Kelechi Igwe, Reed Slobodin, Brandon Nowak
  
 Description
 The UART Audio Sequencer is an embedded system that allows a user to play a sequence of notes through the use of a MSP432 microcontroller, input and output peripherals, and a Python GUI. This project was our final project for CPE 316: Microcontrollers and Embedded Systems, a course offered at Cal Poly SLO. Inside of this repo, you will find instructions on how to get the program running on your system with the files provided. In addition, you will find the report for this project that provides technical documentation about the system. (Note: This project is not active/expected to receive any updates in the future)
